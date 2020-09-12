@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m [currently learning](https://github.com/meadch/meadch/issues/1) Clojure
+- 🌱 I’m [currently learning](https://github.com/athensresearch/ClojureFam/issues/76) Clojure
